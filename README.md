@@ -5,6 +5,9 @@ A Fake REST API using json-server with JWT authentication.
 
 Implemented End-points: login,register
 
+## Postman collections API : https://www.getpostman.com/collections/f19753e55fd0f7d1d1d5
+https://documenter.getpostman.com/view/624374/2s83tJGACn
+
 ## Install
 
 ```bash
